@@ -18,7 +18,7 @@
         "am_reward": "ca-app-pub-3940256099942544/5224354917",
         "fb_inter": "YOUR_PLACEMENT_ID",
         "fb_native": "YOUR_PLACEMENT_ID",
-        "fb_banner": "YOUR_PLACEMENT_ID",Ś
+        "fb_banner": "YOUR_PLACEMENT_ID",
         "fb_nativebanner": "YOUR_PLACEMENT_ID",
         "fb_reward": "YOUR_PLACEMENT_ID",
         "ads_prioritytype": "fix",
